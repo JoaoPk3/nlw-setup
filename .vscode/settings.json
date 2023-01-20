@@ -16,7 +16,7 @@
 
   // workbench
   "workbench.editor.enablePreview": false,
-  "workbench.iconTheme": "vs-seti",
+  "workbench.iconTheme": "symbols",
   "workbench.colorTheme": "Omni",
 
   // prettier
